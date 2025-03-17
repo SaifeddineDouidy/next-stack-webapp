@@ -69,15 +69,6 @@ bun dev
 ```
 
 
-
-## Watch the video
-
-Watch the YouTube video to learn how this project was put together:
-
-[![The Best Tech Stack for Web Development in 2025](https://img.youtube.com/vi/BoUVIhtqjAw/0.jpg)](https://youtu.be/BoUVIhtqjAw)
-
-If you like the video, please subscribe to the channel!
-
 ## License
 
 This project is licensed under the MIT License.
